@@ -19,6 +19,6 @@ public class Student {
 		this.name = name;
 	}
 	/*The variable name with this keyword shows that the member variable of the class
-	 The variable name without this keyword shows the local variable 
+	 The variable name without this keyword shows the local variable (PK)
 	 */
 	}
